@@ -1,4 +1,9 @@
-# ND-General
+# Heeelllooo Udacious People!!!1
+
+Welcome to the your go to resource wiki for all things ND. Please fork this repo, make changes, and push them back to us so everyone can benefit. The side benefit is taht you will get git commits and community cred for your work! Also, learning how to fork and make pull requests is an essential part of being a developer. And if you're shy just start with the
+
+Join our community on slack [here](https://udaciouspeople.herokuapp.com/).
+
 This is a general resource wiki for the Udacity Nanodegrees. Fork, modify and make a pull request. We value your contributions and will pretty much always accept you modification as is, or modify it to fit the rest of the docs.
 
 
