@@ -1,5 +1,11 @@
 ## GitHub
 
+### Videos
+<a href="https://plus.google.com/u/0/events/cd2bd75mkg9mh6gsbbrgmahj2a4?authkey=CNvE6O3F3JXz3gE" target="_blank">
+How to do it all with Git and GitHub - Udacity Hangout</a>
+
+### other
+
 <a href="https://www.thinkful.com/learn/a-guide-to-using-github-pages/" target="_blank">
 A guide to using GitHub pages</a>
 
