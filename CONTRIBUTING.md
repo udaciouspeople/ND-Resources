@@ -2,10 +2,12 @@
 
 To contribute resources to this repository, please use the following workflow:
 
-- Fork the repository.
-- Clone your new repository and make your changes locally.
+- Fork this repository.
+- Clone your new repository.
+- Create a new branch for the changes you wish to make.
+- Make your changes.
 - Push your changes to your Github fork.
-- Issue a pull request.
+- Issue a pull request for your new branch.
 
 
 ### Wait! I'm supposed to do what?!
