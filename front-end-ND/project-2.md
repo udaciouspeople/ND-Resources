@@ -34,6 +34,6 @@ When to use semicolons in JavaScript</a>
 
 ### Evaluation rubric and Udacity's Style Guide 
 
-<img src="img/resume.png">
+<img src="http://i.imgur.com/V0dZw76.png">
 
 Style Guide: <a href="http://udacity.github.io/frontend-nanodegree-styleguide/" target="_blank">HTML</a> / <a href="http://udacity.github.io/frontend-nanodegree-styleguide/css.html" target="_blank">CSS</a> / <a href="http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html" target="_blank">JavaScript</a>
