@@ -1,5 +1,16 @@
 ##CSS resources
 
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">
+A guide to flexbox</a>
+
+<a href="https://discussions.udacity.com/t/css-position-layout-beginner/28620" target="_blank">
+CSS Position & Layout</a>
+
+<a href="http://flukeout.github.io/" target="_blank">
+Game to learn CSS selectors</a>
+
+------------------------------------
+
 ### Videos
 
 <a href="https://www.youtube.com/watch?v=FEs2jgZBaQA&list=PLvnI7cZBCpyZttGHLrrzTquMqiZIsAnfl&index=1" target="_blank">CSS Performance Tooling</a>
