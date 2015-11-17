@@ -59,8 +59,6 @@ Building a Modern Web UI</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">CSS reference</a>
 
-<a href="https://www.futurehosting.com/blog/web-design-basics-rem-vs-em-vs-px-sizing-elements-in-css/" target="_blank">Rem vs Em vs Px</a>
-
 <a href="https://discussions.udacity.com/t/useful-tools-for-web-development/22039" target="_blank">
 Useful tools for web development</a>
 
@@ -76,8 +74,8 @@ Some links to pick colors for the design:<br>
 
 ### Evaluation rubric and Udacity's Style Guide 
 
-<img src="img/1a.png">
-<img src="img/1b.png">
-<img src="img/1c.png">
+<img src="http://i.imgur.com/gkv4c0u.png">
+<img src="http://i.imgur.com/49GO15O.png">
+<img src="http://i.imgur.com/5cIlSss.png">
 
 Style Guide: <a href="http://udacity.github.io/frontend-nanodegree-styleguide/" target="_blank">HTML</a> / <a href="http://udacity.github.io/frontend-nanodegree-styleguide/css.html" target="_blank">CSS</a> 
