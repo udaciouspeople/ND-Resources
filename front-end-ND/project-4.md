@@ -1,6 +1,6 @@
 ## Resources to optimize a website
 
-<a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google PageSpeed Insigths</a>
+<a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">Google PageSpeed Insights</a>
 
 <a href="http://csstriggers.com/" target="_blank">CSS Triggers</a>
 
@@ -16,6 +16,10 @@ The RAIL Performance Model</a>
 How to optimize the background pizzas</a>
 
 <a href="http://una.im/gulp-local-psi/" target="_blank">Setting up PageSpeed Insights to test performance locally via Gulp</a>
+
+[Gulp for beginners - CSS Tricks](https://css-tricks.com/gulp-for-beginners/)
+
+[Leaner, Meaner, Faster Animations - HTML5 rocks](http://www.html5rocks.com/en/tutorials/speed/animations/)
 
 ----------------------------------------------------
 
