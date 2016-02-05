@@ -28,6 +28,9 @@ Codecademy</a>
 <a href="https://www.codingame.com/start" target="_blank">
 CodinGame</a>
 
+<a href="https://www.interviewbit.com" target="_blank">
+InterviewBit</a>
+
 ### Competitions
 <a href="https://www.topcoder.com/" target="_blank">
 TopCoder</a>
